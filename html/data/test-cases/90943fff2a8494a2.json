@@ -1,0 +1,75 @@
+{
+  "uid" : "90943fff2a8494a2",
+  "name" : "test_product_detail",
+  "fullName" : "Scripts.testProduct.TestProduct#test_product_detail",
+  "historyId" : "f9ddad88375105d76f2855a968998a8f",
+  "time" : {
+    "start" : 1602555286381,
+    "stop" : 1602555286446,
+    "duration" : 65
+  },
+  "description" : "商品信息",
+  "descriptionHtml" : "<p>商品信息</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "商品信息",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3e8431aab15957d2",
+      "name" : "log",
+      "source" : "3e8431aab15957d2.txt",
+      "type" : "text/plain",
+      "size" : 702
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testProduct"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProduct"
+  }, {
+    "name" : "host",
+    "value" : "LHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testProduct"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90943fff2a8494a2.json",
+  "parameterValues" : [ ]
+}

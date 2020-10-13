@@ -1,0 +1,3 @@
+[32mINFO    [0m root:user.py:16 用户-获取token
+[32mINFO    [0m root:testUser.py:13 请求地址：http://e.cn/api/v1/token/user
+[32mINFO    [0m root:testUser.py:14 响应数据：{'token': '459dec0d744538716c4ce8a57247e18b'}

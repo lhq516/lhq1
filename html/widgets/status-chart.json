@@ -1,0 +1,121 @@
+[ {
+  "uid" : "aa67626366d99dbf",
+  "name" : "test_user_address",
+  "time" : {
+    "start" : 1602555286635,
+    "stop" : 1602555286675,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90943fff2a8494a2",
+  "name" : "test_product_detail",
+  "time" : {
+    "start" : 1602555286381,
+    "stop" : 1602555286446,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29c907f6ba10b283",
+  "name" : "test_query_order",
+  "time" : {
+    "start" : 1602555286106,
+    "stop" : 1602555286142,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be7c5e840bf249d8",
+  "name" : "test_order_list",
+  "time" : {
+    "start" : 1602555285997,
+    "stop" : 1602555286044,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43e781115a9bcec9",
+  "name" : "test_order_api",
+  "time" : {
+    "start" : 1602555286047,
+    "stop" : 1602555286104,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5aada93c7e6837b",
+  "name" : "test_get_token",
+  "time" : {
+    "start" : 1602555286448,
+    "stop" : 1602555286607,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "294bfe5e768e6af6",
+  "name" : "test_home_api",
+  "time" : {
+    "start" : 1602555286145,
+    "stop" : 1602555286201,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b8d5d8a8d480a0e",
+  "name" : "test_product_classify_api",
+  "time" : {
+    "start" : 1602555286291,
+    "stop" : 1602555286341,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71116b09a08ec7eb",
+  "name" : "test_recent_product_api",
+  "time" : {
+    "start" : 1602555286248,
+    "stop" : 1602555286287,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28d3ce6087f91044",
+  "name" : "test_theme_api",
+  "time" : {
+    "start" : 1602555286204,
+    "stop" : 1602555286245,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bad5c8c48458078",
+  "name" : "test_verify_token",
+  "time" : {
+    "start" : 1602555286610,
+    "stop" : 1602555286633,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56172dd094015bda",
+  "name" : "test_classify_product_api",
+  "time" : {
+    "start" : 1602555286343,
+    "stop" : 1602555286378,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

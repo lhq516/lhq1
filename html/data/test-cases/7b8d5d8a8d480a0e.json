@@ -1,0 +1,75 @@
+{
+  "uid" : "7b8d5d8a8d480a0e",
+  "name" : "test_product_classify_api",
+  "fullName" : "Scripts.testProduct.TestProduct#test_product_classify_api",
+  "historyId" : "77731a5aa90e6f3dcec1a434f1f5243b",
+  "time" : {
+    "start" : 1602555286291,
+    "stop" : 1602555286341,
+    "duration" : 50
+  },
+  "description" : "商品分类",
+  "descriptionHtml" : "<p>商品分类</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "商品分类",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "25bf16a438c112f7",
+      "name" : "log",
+      "source" : "25bf16a438c112f7.txt",
+      "type" : "text/plain",
+      "size" : 1409
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testProduct"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProduct"
+  }, {
+    "name" : "host",
+    "value" : "LHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testProduct"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b8d5d8a8d480a0e.json",
+  "parameterValues" : [ ]
+}

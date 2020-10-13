@@ -1,0 +1,3 @@
+[32mINFO    [0m root:order.py:42 订单-查看订单
+[32mINFO    [0m root:testOrder.py:51 请求地址：http://e.cn/api/v1/order/115
+[32mINFO    [0m root:testOrder.py:52 响应数据：{'id': 115, 'order_no': 'DA12916861054650', 'create_time': '2020-10-12 16:34:46', 'total_price': '0.07', 'status': 1, 'snap_img': 'http://e.cn/images/product-dryfruit@7.png', 'snap_name': '珍奇异果 3个', 'total_count': 7, 'snap_items': [{'id': 12, 'name': '珍奇异果 3个', 'main_img_url': 'http://e.cn/images/product-dryfruit@7.png', 'count': 7, 'totalPrice': 0.07, 'price': '0.01', 'counts': 7}], 'snap_address': {'name': '小敏', 'mobile': '13914151111', 'province': '上海市', 'city': '上海市', 'country': '浦东新区', 'detail': None, 'update_time': '1970-01-01 08:00:00'}}

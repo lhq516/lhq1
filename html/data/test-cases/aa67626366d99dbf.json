@@ -1,0 +1,75 @@
+{
+  "uid" : "aa67626366d99dbf",
+  "name" : "test_user_address",
+  "fullName" : "Scripts.testUser.TestUserApi#test_user_address",
+  "historyId" : "71a0fc6b46b18657eefd93b06a2b501a",
+  "time" : {
+    "start" : 1602555286635,
+    "stop" : 1602555286675,
+    "duration" : 40
+  },
+  "description" : "用户地址信息",
+  "descriptionHtml" : "<p>用户地址信息</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "用户地址信息",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "452c009c4a58f2aa",
+      "name" : "log",
+      "source" : "452c009c4a58f2aa.txt",
+      "type" : "text/plain",
+      "size" : 363
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testUser"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUserApi"
+  }, {
+    "name" : "host",
+    "value" : "LHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testUser"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa67626366d99dbf.json",
+  "parameterValues" : [ ]
+}

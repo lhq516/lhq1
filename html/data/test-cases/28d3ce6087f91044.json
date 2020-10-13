@@ -1,0 +1,75 @@
+{
+  "uid" : "28d3ce6087f91044",
+  "name" : "test_theme_api",
+  "fullName" : "Scripts.testHome.TestHomeApi#test_theme_api",
+  "historyId" : "2cc42e608db4391647c9e447ae265fc0",
+  "time" : {
+    "start" : 1602555286204,
+    "stop" : 1602555286245,
+    "duration" : 41
+  },
+  "description" : "专题栏",
+  "descriptionHtml" : "<p>专题栏</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "专题栏",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "363f2b7201539b20",
+      "name" : "log",
+      "source" : "363f2b7201539b20.txt",
+      "type" : "text/plain",
+      "size" : 1163
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testHome"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHomeApi"
+  }, {
+    "name" : "host",
+    "value" : "LHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9084-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testHome"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28d3ce6087f91044.json",
+  "parameterValues" : [ ]
+}
